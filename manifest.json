@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Bradly's Lead Tracker",
+  "version": "1.0",
+  "description": "A simple Chrome extension to save leads.",
+  "action": {
+    "default_popup": "index.html"
+   
+  },
+  "permissions": ["tabs"]
+  
+}
